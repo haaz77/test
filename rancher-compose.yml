@@ -1,0 +1,6 @@
+.catalog:
+  name: "Hassan"
+  version: "1.1.6-2017-02-08-GA"
+  description: "Container Defined Storage for Docker"
+  uuid: 352669-pwx-1.1.6
+  minimum_rancher_version: v0.56.0
