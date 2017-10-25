@@ -1,8 +1,7 @@
-name: digango
+name: django
 description: |
   Description of the Catalog Entry
 version: 01
 category: pro
-maintainer: haaz
 license: free
 projectURL: localhost:80000
