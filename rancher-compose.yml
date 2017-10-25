@@ -1,6 +1,9 @@
-.catalog:
-  name: "Django"
-  version: "1.1.6-2017-02-08-GA"
-  description: "Container Defined Storage for Docker"
-  uuid: 352669-pwx-1.1.6
-  minimum_rancher_version: v0.56.0
+version: '2'
+catalog:
+  name: test01
+  version: 1
+  description: Description of the versioned template of the Catalog Entry
+  minimum_rancher_version: v1.0.1 
+  maximum_rancher_version: v2.0.1 
+#  upgrade_from: # The previous versions that this template can be upgraded from
+#  questions: #Used to request user input for configuration options
