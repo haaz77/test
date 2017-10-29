@@ -1,0 +1,9 @@
+version: '2'
+catalog:
+  name: test01
+  version: 1
+  description: Description of the versioned template of the Catalog Entry
+  minimum_rancher_version: v1.0.1 
+  maximum_rancher_version: v2.0.1 
+#  upgrade_from: # The previous versions that this template can be upgraded from
+#  questions: #Used to request user input for configuration options
