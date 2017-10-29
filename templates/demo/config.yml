@@ -1,6 +1,6 @@
 name: django
 description: |
-  Description of the Catalog Entry
+The web framework for perfectionists with deadlines.
 version: 01
 category: pro
 license: free
